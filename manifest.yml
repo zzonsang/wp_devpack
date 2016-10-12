@@ -1,0 +1,10 @@
+---
+applications:
+- name: wp-hs
+  memory: 512M 
+  path: .
+#  buildpack: https://github.com/cloudfoundry/php-buildpack 
+#  buildpack: php_buildpack
+  host: wp-hs
+  services:
+  - hs-db
