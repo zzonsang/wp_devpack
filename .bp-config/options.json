@@ -1,4 +1,3 @@
 {
-    	"ADMIN_EMAIL": "zzonsang2@gmail.com",
 	"PHP_EXTENSIONS": ["mbstring", "mysqli", "mcrypt", "gd", "zip", "curl", "openssl", "sockets"]
 }
